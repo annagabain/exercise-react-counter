@@ -1,5 +1,4 @@
 import { useState } from 'react'
-import abacus from './assets/abacus.jpg'
 
 import './App.css'
 
