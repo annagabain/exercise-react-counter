@@ -1,0 +1,32 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+
+
+
+.card {
+  padding: 0;
+}
+
+.card-buttons {
+  margin: 1rem;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+
+}
+
+#current-count {
+  font-family: "Nova Square", sans-serif;
+  font-size: 4rem;
+  
+  background-color: black;
+  box-shadow: 0 4px 8px rgba(35, 34, 34, 0.8);
+  color: yellow;
+  align-items: baseline;
+  padding: 0 0;
+
+}
